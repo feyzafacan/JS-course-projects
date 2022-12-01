@@ -1,2 +1,1 @@
-# JS-course-projects
-JavaScript course projects
+# E-commerce website
