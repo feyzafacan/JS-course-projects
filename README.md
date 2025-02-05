@@ -1,8 +1,12 @@
-# Tribute-Page-fcc
-M. K. Ataturk's page built with  HTML and CSS
+# Password-Generator
+ Password Generator built with HTML, CSS and JavaScript.
+ 
+ https://ubiquitous-begonia-f581df.netlify.app
 
-https://singular-pithivier-1b6745.netlify.app
+I figured out how to link js to html while making this password generator. To develop the project, I would like to add that the generated password is copied when pressed, and the ability to select the length of the password.
 
-![image](https://user-images.githubusercontent.com/104005289/195549304-07cba727-2ba6-410b-9ea4-15f2f326034c.png)
 
-![image](https://user-images.githubusercontent.com/104005289/195549154-2afd17ff-2125-47bc-9c5e-931b6c7b3db5.png)
+![image](https://user-images.githubusercontent.com/104005289/195411130-80ac5512-86b4-4964-b0bd-42c02fc57655.png)
+
+![image](https://user-images.githubusercontent.com/104005289/195411157-132596a0-51d5-4d18-be7d-ab4a1b5d981c.png)
+
